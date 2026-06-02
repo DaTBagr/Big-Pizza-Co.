@@ -1,6 +1,6 @@
 # 🍕 Big Pizza Co. Online Pizza Ordering
 
-An online pizza store, allowing users to order and checkout pizza's to be delivered to their address. Uses *React*, *Tailwind* and *Redux*. </br>
+An online pizza store, allowing users to order and checkout pizza's to be delivered to their address. </br> Uses *React*, *Tailwind* and *Redux*. </br>
 An exercise in learning Tailwind and putting into practice some of what I have learnt. </br> </br>
 Uses Redux to store global state for the user and for the user's current order.
 
